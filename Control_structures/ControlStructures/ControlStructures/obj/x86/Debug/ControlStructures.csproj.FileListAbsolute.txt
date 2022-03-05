@@ -1,0 +1,5 @@
+C:\Users\edwin gales\Documents\Visual Studio 2010\Projects\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe
+C:\Users\edwin gales\Documents\Visual Studio 2010\Projects\ControlStructures\ControlStructures\bin\Debug\ControlStructures.pdb
+C:\Users\edwin gales\Documents\Visual Studio 2010\Projects\ControlStructures\ControlStructures\obj\x86\Debug\ControlStructures.exe
+C:\Users\edwin gales\Documents\Visual Studio 2010\Projects\ControlStructures\ControlStructures\obj\x86\Debug\ControlStructures.pdb
+C:\Users\edwin gales\Documents\Visual Studio 2010\Projects\ControlStructures\ControlStructures\obj\x86\Debug\ControlStructures.csprojResolveAssemblyReference.cache
