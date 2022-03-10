@@ -1,0 +1,5 @@
+C:\Users\edwin gales\documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+C:\Users\edwin gales\documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.pdb
+C:\Users\edwin gales\documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\edwin gales\documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\edwin gales\documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.csprojResolveAssemblyReference.cache
