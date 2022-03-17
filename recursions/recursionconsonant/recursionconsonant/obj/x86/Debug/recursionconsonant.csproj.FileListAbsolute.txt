@@ -1,0 +1,4 @@
+c:\users\edwin gales\documents\visual studio 2010\Projects\recursionconsonant\recursionconsonant\bin\Debug\recursionconsonant.exe
+c:\users\edwin gales\documents\visual studio 2010\Projects\recursionconsonant\recursionconsonant\bin\Debug\recursionconsonant.pdb
+c:\users\edwin gales\documents\visual studio 2010\Projects\recursionconsonant\recursionconsonant\obj\x86\Debug\recursionconsonant.exe
+c:\users\edwin gales\documents\visual studio 2010\Projects\recursionconsonant\recursionconsonant\obj\x86\Debug\recursionconsonant.pdb

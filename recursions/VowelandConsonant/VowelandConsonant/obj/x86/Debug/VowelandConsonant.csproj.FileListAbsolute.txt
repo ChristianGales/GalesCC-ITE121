@@ -1,0 +1,4 @@
+c:\users\edwin gales\documents\visual studio 2010\Projects\VowelandConsonant\VowelandConsonant\bin\Debug\VowelandConsonant.exe
+c:\users\edwin gales\documents\visual studio 2010\Projects\VowelandConsonant\VowelandConsonant\bin\Debug\VowelandConsonant.pdb
+c:\users\edwin gales\documents\visual studio 2010\Projects\VowelandConsonant\VowelandConsonant\obj\x86\Debug\VowelandConsonant.exe
+c:\users\edwin gales\documents\visual studio 2010\Projects\VowelandConsonant\VowelandConsonant\obj\x86\Debug\VowelandConsonant.pdb
