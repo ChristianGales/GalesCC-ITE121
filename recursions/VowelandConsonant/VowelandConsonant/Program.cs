@@ -10,6 +10,7 @@ namespace VowelandConsonant
         string text = Console.ReadLine().ToLower();
         static void Main(string[] args)
         {
+            //not recursion
             Console.WriteLine("[1] No of Vowels");
             Console.WriteLine("[2] No of Consonants");
             Console.Write("Select Function: ");
