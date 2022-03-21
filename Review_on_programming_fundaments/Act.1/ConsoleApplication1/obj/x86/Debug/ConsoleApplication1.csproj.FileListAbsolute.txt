@@ -1,0 +1,5 @@
+C:\Users\edwin gales\Desktop\BROTHER FILES\2nd Sem\5- B        Computer Programming 2\1                    Prelim\Act.1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\edwin gales\Desktop\BROTHER FILES\2nd Sem\5- B        Computer Programming 2\1                    Prelim\Act.1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\edwin gales\Desktop\BROTHER FILES\2nd Sem\5- B        Computer Programming 2\1                    Prelim\Act.1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\edwin gales\Desktop\BROTHER FILES\2nd Sem\5- B        Computer Programming 2\1                    Prelim\Act.1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\edwin gales\Desktop\BROTHER FILES\2nd Sem\5- B        Computer Programming 2\1                    Prelim\Act.1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
