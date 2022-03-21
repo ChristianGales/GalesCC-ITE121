@@ -7,6 +7,7 @@ public class recursionvowel
 {
     public static int isVowel(char ch)
     {
+        //Count both Vowels and Consonants in string from a user
         ch = char.ToUpper(ch);
         if (ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U')
         {
